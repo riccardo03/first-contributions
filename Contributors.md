@@ -2,6 +2,7 @@
 # Contributors
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
+- [Riccardo Palumbo] (https://github.com/riccardo03)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
 - [Yaksh Gandhi] (https://github.com/yaksh1)
 - [Harsh Umpoxy] (https://github.com/HarshUmpoxy)
